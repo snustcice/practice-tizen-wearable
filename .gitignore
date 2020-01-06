@@ -102,3 +102,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/c,c++,windows
+/.metadata/
