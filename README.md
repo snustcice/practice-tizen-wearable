@@ -18,7 +18,7 @@
     * an open source developer platform for building different types of apps
     * Languages(C#, Visual Basic, F#) + libraries
     * Platforms
-      1. **.NET Core(Runs anywhere) : Windows, Linux, MacOS**
+      1. .NET Core(Runs anywhere) : Windows, Linux, MacOS
       2. .NET Framework : websites, services, apps on Windows
       3. **Xamarin/Mono : a .NET for mobile**
     * Usage : Web, Mobile, Desktop, Microservices, Gaming, Machine Learning, Cloud, IoT(with raspberry pi!)
