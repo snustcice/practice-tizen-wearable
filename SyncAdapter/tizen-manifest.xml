@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="3.0" package="org.example.syncadapter" version="1.0.0">
+    <profile name="wearable"/>
+    <ui-application appid="org.example.syncadapter.ui" exec="syncadapter" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>SyncAdapter</label>
+        <icon>syncadapter.png</icon>
+    </ui-application>
+    <account>
+        <account-provider appid="org.example.syncadapter.ui" multiple-accounts-support="false" providerid="http://www.tizen.org">
+            <icon section="account">syncadapter.png</icon>
+            <icon section="account-small">syncadapter.png</icon>
+            <label xml:lang="en-gb">Sync Adapter</label>
+            <label>Sync Adapter</label>
+            <capability>http://tizen.org/account/capability/contact</capability>
+            <capability>http://tizen.org/account/capability/image</capability>
+            <capability>http://tizen.org/account/capability/music</capability>
+            <capability>http://tizen.org/account/capability/sound</capability>
+            <capability>http://tizen.org/account/capability/video</capability>
+        </account-provider>
+    </account>
+    <privileges>
+        <privilege>http://tizen.org/privilege/account.read</privilege>
+        <privilege>http://tizen.org/privilege/account.write</privilege>
+        <privilege>http://tizen.org/privilege/alarm.set</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/contact.read</privilege>
+    </privileges>
+</manifest>
