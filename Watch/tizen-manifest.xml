@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" package="org.example.watch" api-version="5.5" version="1.0.0">
+	<profile name="wearable" />
+	<watch-application appid="org.example.watch" exec="watch" ambient-support="true">
+		<icon>watch.png</icon>
+		<label>watch</label>
+	</watch-application>
+	<privileges>
+		<privilege>http://tizen.org/privilege/alarm.set</privilege>
+	</privileges>
+</manifest>
