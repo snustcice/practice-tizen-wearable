@@ -22,6 +22,6 @@
       2. .NET Framework : websites, services, apps on Windows
       3. **Xamarin/Mono : a .NET for mobile**
     * Usage : Web, Mobile, Desktop, Microservices, Gaming, Machine Learning, Cloud, IoT(with raspberry pi!)
-    * [.NET Docs](https://docs.microsoft.com/dotnet/)
+    * [.NET Docs(Microsoft)](https://docs.microsoft.com/dotnet/)
     * [.NET Hello World tutorial](https://aka.ms/dotnethelloworld/)
 ### 선택한 방법 : Native?
