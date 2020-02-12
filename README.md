@@ -24,4 +24,4 @@
     * Usage : Web, Mobile, Desktop, Microservices, Gaming, Machine Learning, Cloud, IoT(with raspberry pi!)
     * [.NET Docs(Microsoft)](https://docs.microsoft.com/dotnet/)
     * [.NET Hello World tutorial](https://aka.ms/dotnethelloworld/)
-### 선택한 방법 : Native?
+### 선택한 방법 : Native
