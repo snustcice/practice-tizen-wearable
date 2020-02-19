@@ -25,5 +25,3 @@
     * [.NET Docs(Microsoft)](https://docs.microsoft.com/dotnet/)
     * [.NET Hello World tutorial](https://aka.ms/dotnethelloworld/)
 ### 선택한 방법 : Native
-
-개발 예정
