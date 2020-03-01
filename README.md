@@ -13,7 +13,7 @@
 * .NET
   * C#
   * .NET applications with Xamarin.Forms / Tizen .NET framework
-  * UI를 만들게 해 준다.
+  * UI를 만들 수 있게 해 준다.
   * [What is .NET?(Youtube)](https://www.youtube.com/watch?v=eIHKZfgddLM)
     * an open source developer platform for building different types of apps
     * Languages(C#, Visual Basic, F#) + libraries
